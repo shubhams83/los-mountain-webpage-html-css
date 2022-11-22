@@ -1,4 +1,4 @@
-#LOSEANGLES-MOUNTAIN
+# LOS-ANGLES-MOUNTAIN (HTML & CSS)
 
 This LOS-ANGELES MOUNTAINS is small project using html and css.
 
